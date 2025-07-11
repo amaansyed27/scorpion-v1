@@ -1,0 +1,5 @@
+{
+  "name": "Scorpion: AI Course Generator",
+  "description": "Upload a PDF or paste content to generate a personalized learning path with interactive lessons and quizzes, powered by Gemini.",
+  "requestFramePermissions": []
+}
